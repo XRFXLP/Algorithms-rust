@@ -23,6 +23,10 @@ These are for demonstration purposes only.
 - Prim's Minimum Spanning Tree _(Not implemented yet)_
 - BFS _(Not implemented yet)_
 - DFS  _(Not implemented yet)_
+- Topological Sort _(Not implemented yet)_
+- A* _(Not implemented yet)_
+- Bellman-ford _Not implemented yet)_
+
 
 ## [Dynamic Programming](./src/dynamic_programming)
 
@@ -47,6 +51,7 @@ These are for demonstration purposes only.
 - [Binary Search Tree](./src/data_structures/binary_search_tree.rs)
 - [B-Tree](./src/data_structures/b_tree.rs)
 - AVL Tree _(Not implemented yet)_
+- Union-find _(Not implemented yet)_
 
 ## Strings
 
@@ -56,8 +61,8 @@ These are for demonstration purposes only.
 ## General
 
 - [Convex Hull: Graham Scan](./src/general/convex_hull.rs)
-- N-Queensp _(Not implemented yet)_
-- Graph Coloringp _(Not implemented yet)_
+- N-Queen _(Not implemented yet)_
+- Graph Coloring _(Not implemented yet)_
 - [Tower of Hanoi](./src/general/hanoi.rs)
 
 ## [Search Algorithms](./src/searching)
